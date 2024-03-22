@@ -48,4 +48,4 @@ Contributions to this repository are welcome! If you have any new patterns or im
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
